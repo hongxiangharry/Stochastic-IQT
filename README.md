@@ -1,5 +1,8 @@
 # Stochastic-IQT
 
+## Updates：
+* [2023/4/30] We are still working on releasing the full version of source code for (the accepted MedIA paper)[https://authors.elsevier.com/a/1g%7EwU4rfPmE0Lh], please keep watching on this page. At the moment, please refer to the pre-released IQT tutorial code described below.
+
 ## Overview
 
 This is an official repo for the stochastic image quality transfer (IQT) project, which achieves the enhancement of the 3D low-field magnetic resonance images on (1)  global contrast and (2) resolution on slice direction. This work is under review and the source code will be released after the completion of the review process.
